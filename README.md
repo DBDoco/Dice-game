@@ -16,3 +16,7 @@
 ## How To Use
 
 Open index.html. To "roll" the dices just reload the page.
+
+## Try it live
+
+<a href="https://leafy-kitsune-8a7f20.netlify.app/">Here</a>.
