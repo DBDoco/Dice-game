@@ -10,13 +10,15 @@
   <img src="https://media4.giphy.com/media/C1UII5XOkGmLYYWbBk/giphy.gif?cid=790b761188e7395e32eed5576d3a8eb85bf49900c8e0ec92&rid=giphy.gif&ct=g" alt="flappy" />
 </p>
 
-
+<div align="center">
+  <h3>
+    <a href="https://leafy-kitsune-8a7f20.netlify.app/">
+      Try Live
+    </a>
+</h3>
+</div>
 
 
 ## How To Use
 
 Open index.html. To "roll" the dices just reload the page.
-
-## Try it live
-
-<a href="https://leafy-kitsune-8a7f20.netlify.app/">Here</a>.
